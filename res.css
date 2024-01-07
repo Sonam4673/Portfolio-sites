@@ -14,9 +14,7 @@ html{
 }
 body{
     color: rgb(244, 237, 237);
-     background-image: url(s.avif);
-     background-repeat: no-repeat;
-     background-size: cover ;
+    background-color: black;
      margin: 0%;  
      padding: 0%;
      font-size: 1rem;
