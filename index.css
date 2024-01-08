@@ -207,11 +207,15 @@ section {
     font-size: 4rem;
     line-height: 1.rem;
     margin-bottom: 3rem;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
 }
 .sub-tittle{
     text-align: center;
     font-size: 5rem;
     padding-bottom: 70px;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
     
 }
 .sub-tittle span{
@@ -229,6 +233,8 @@ section {
     grid-template-columns: repeat(auto-fit,minmax(259px,1fr));
     grid-gap: 40px;
     margin-top: 60px;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
 
 }
 .services-list div{
@@ -238,7 +244,7 @@ section {
     border-radius: 40px;
     text-align: center;
     flex: 1 1 30rem;
-    border: .2rem solid var(--bg-color);
+    border: .2rem solid var(red);
     transition: background 0.5s, transform 0.5s;
     box-shadow: 1px 1px 20px #0d0d0df7,
                 1px 1px 40px #060606f7
