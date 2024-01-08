@@ -36,8 +36,7 @@ section {
     background: rgb(103, 106, 106);
 }
 .header.sticky{
-    border-bottom: .3rem solid rgba(0, 0, 0,  .2)
-
+    border-bottom: .3rem solid rgba(0, 0, 0,  .2);
 }
 .logo{
     position: relative;
