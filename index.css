@@ -100,6 +100,8 @@ section {
 }
 .home-content p{
     font-size: 1.6rem;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
 }
 .home-content{
     max-width: 600px;
@@ -177,9 +179,13 @@ section {
     font-size: 50px;
     display: inline-flex;
     gap: 1.5rem;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
 }
 .about-text h2 span{
     color: red;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
 }
 .about-text h4{
     font-size: 25px;
@@ -193,6 +199,8 @@ section {
     font-size: 15px;
     line-height: 1.4;
     margin-bottom: 3rem;
+    animation: slideBottom 1s ease forwards;
+    animation-delay: .1s;   
 }
 .services{
    color:rgb(224, 13, 13);
