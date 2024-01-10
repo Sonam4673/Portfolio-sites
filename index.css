@@ -527,7 +527,8 @@ section {
     align-items: center;
     flex-wrap: wrap;
     padding: 2rem 9%;
-    background: var(--second-bg-color);
+    /*background: var(--second-bg-color);*/
+    background-color: black;
 }
 .footer-text p {
     font-size: 1.6rem;
@@ -538,6 +539,7 @@ section {
     align-items: center;
     padding: .8rem;
     background: var(--main-color);
+    color: red;
     border-radius: .8rem;
     transition: .5s ease;
 }
