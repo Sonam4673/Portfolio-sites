@@ -69,7 +69,9 @@ section {
 }
 .navbar a:hover,
 .navbar a.active {
-    color: rgb(225, 215, 215);
+    /*color: rgb(225, 215, 215);*/
+    color: red;
+              
   }
 
 #menu-icon {
