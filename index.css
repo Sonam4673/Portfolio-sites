@@ -534,6 +534,7 @@ section {
 }
 .footer-text p {
     font-size: 1.6rem;
+    color: white;
 }
 .footer-iconTop a{
     display: inline-flex;
